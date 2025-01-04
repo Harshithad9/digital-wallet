@@ -63,7 +63,7 @@ This project is a **Digital Wallet** application inspired by Paytm, built using 
      ```env
      MONGO_URI=your-mongodb-connection-string
      JWT_SECRET=your-secret-key
-     PAYMENT_GATEWAY_API_KEY=your-payment-gateway-key
+     PORT = 3000
      ```
 
 4. **Run the Application**
@@ -111,6 +111,6 @@ This project is a **Digital Wallet** application inspired by Paytm, built using 
 ## Contact
 
 For any queries or support, feel free to reach out:
-- **Email**: your-dharshitha292@gmail.com
+- **Email**: dharshitha292@gmail.com
 - **GitHub**: [Harshithad9](https://github.com/Harshithad9/digital-wallet.git)
 
