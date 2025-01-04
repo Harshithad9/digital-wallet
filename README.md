@@ -33,9 +33,6 @@ This project is a **Digital Wallet** application inspired by Paytm, built using 
 ### Database
 - **MongoDB**: For storing user information, transaction details, and analytics data.
 
-### APIs & Libraries
-- **JWT (JSON Web Token)**: For user authentication and session management.
-
 ---
 
 ## Installation and Setup
@@ -48,7 +45,7 @@ This project is a **Digital Wallet** application inspired by Paytm, built using 
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com//digital-wallet.git
+   git clone https://github.com/Harshithad9/digital-wallet.git
    cd digital-wallet
    ```
 
@@ -115,5 +112,5 @@ This project is a **Digital Wallet** application inspired by Paytm, built using 
 
 For any queries or support, feel free to reach out:
 - **Email**: your-dharshitha292@gmail.com
-- **GitHub**: [Harshithad9](https://github.com/yourusername)
+- **GitHub**: [Harshithad9](https://github.com/Harshithad9/digital-wallet.git)
 
